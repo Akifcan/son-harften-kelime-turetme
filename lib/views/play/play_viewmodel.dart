@@ -9,8 +9,9 @@ abstract class PlayViewModel extends StatelessWidget {
 
   newResposne() async {
     wordController.checkWord(textEditingController.text);
-    await Future.delayed(Duration(seconds: 1));
+    await Future.delayed(Duration(milliseconds: 500));
     scrollController.animateTo(scrollController.position.maxScrollExtent,
         duration: Duration(milliseconds: 500), curve: Curves.bounceIn);
+    textEditingController.text = '';
   }
 }
