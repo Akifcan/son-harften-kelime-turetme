@@ -1,16 +1,11 @@
-# kelime_turetme
+# kelime_turetme uygulaması
 
-A new Flutter project.
+### 🔡 🔠 🆖 🆗
 
-## Getting Started
+### Son harften kelime türet. Dikkat et bir harfi sadece bir kez kullanabilirsin.
+### [Google Play Store](https://play.google.com/store/apps/details?id=com.seaapi.kelime_turet)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image-1](https://i.hizliresim.com/le2XHb.png)
+![image-2](https://i.hizliresim.com/F0MDne.png)
+![image-3](https://i.hizliresim.com/tku2yc.png)
+### Mockups from: [Mockup Phone](https://mockuphone.com/#ios)
